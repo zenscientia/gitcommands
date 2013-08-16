@@ -1,0 +1,8 @@
+adding some context to red.txt
+this is just some dummy content
+should work though
+public class Test{
+	public Test(){
+		console.log("There you go");
+	}
+}
